@@ -23,7 +23,8 @@ categories:
         faviconUrl: assets/menav.svg
       - name: OTR正式系统
         url: https://otr.mercedes-benz.com.cn/#/
-        icon: fab fa-google
+        #icon: fab fa-google
+        icon: bi bi-airplane
         description: OTR正式系统
       - name: GitHub
         url: https://www.github.com
