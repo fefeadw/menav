@@ -5,7 +5,8 @@
 title: MeNav
 description: Personal Navigation Station
 author: fefeadw
-favicon: menav.svg
+#favicon: menav.svg
+favicon: http://www.w3.org
 logo_text: MeNav
 
 icons:
