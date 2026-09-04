@@ -26,10 +26,10 @@ categories:
         #icon: fab fa-google
         icon: bi bi-airplane
         description: OTR正式系统
-      - name: GitHub
-        url: https://www.github.com
+      - name: 企业邮箱
+        url: https://www.qiye.aliyun.com
         icon: fab fa-github
-        description: 代码托管平台
+        description: 企业邮箱
       - name: Stack Overflow
         url: https://stackoverflow.com
         icon: fab fa-stack-overflow
