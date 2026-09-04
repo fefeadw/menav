@@ -8,4 +8,4 @@ template: content
 
 # 本期仅支持文件模式：读取本地 markdown 文件
 content:
-  file: content/about.md
+  file: content/aboutme.md
