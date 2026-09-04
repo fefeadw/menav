@@ -12,10 +12,10 @@ categories:
   - name: '常用网站'
     icon: 'fas fa-star'
     sites:
-      - name: 'GitHub'
-        url: 'https://github.com/'
+      - name: '星播客'
+        url: 'https://china-portal.mercedes-benz.com.cn/'
         icon: 'fab fa-github'
-        description: '代码托管平台'
+        description: '星播客'
       - name: 'Stack Overflow'
         url: 'https://stackoverflow.com/'
         icon: 'fab fa-stack-overflow'
