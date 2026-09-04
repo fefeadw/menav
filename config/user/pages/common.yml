@@ -20,7 +20,7 @@ categories:
         url: https://otl-cn.i.mercedes-benz.com/
         icon: far fa-thumbs-up
         description: 星平台
-        faviconUrl: assets/menav.svg
+      # faviconUrl: assets/menav.svg
       - name: OTR正式系统
         url: https://otr.mercedes-benz.com.cn/#/
         icon: fab fa-google
