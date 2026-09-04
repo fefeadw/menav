@@ -25,12 +25,12 @@ categories:
         url: https://otr.mercedes-benz.com.cn/#/
         icon: fab fa-google
         description: OTR正式系统
-      - name: 企业邮箱
-        url: https://www.qiye.aliyun.com
-        icon: fab fa-github
-        description: 企业邮箱
-      - name: Stack Overflow
-        url: https://stackoverflow.com
-        icon: fab fa-stack-overflow
-        description: 程序员问答社区
+      - name: DIC经销商信息中心
+        url: https://dic-cn.i.mercedes-benz.com/
+        icon: fas fa-users
+        description: DIC经销商信息中心
+      - name: Alice Access
+        url: https://alice.mercedes-benz.com/access
+        icon: far fa-user-circle
+        description: Alice Access
 
