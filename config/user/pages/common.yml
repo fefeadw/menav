@@ -33,19 +33,4 @@ categories:
         url: https://stackoverflow.com
         icon: fab fa-stack-overflow
         description: 程序员问答社区
-      - name: ChatGPT
-        url: https://chat.openai.com
-        icon: fas fa-robot
-        description: AI智能助手
-      - name: YouTube
-        url: https://www.youtube.com
-        icon: fab fa-youtube
-        description: 视频分享平台
-      - name: Twitter
-        url: https://twitter.com
-        icon: fab fa-twitter
-        description: 社交媒体平台
-      - name: Reddit
-        url: https://www.reddit.com
-        icon: fab fa-reddit
-        description: 社区讨论平台
+
