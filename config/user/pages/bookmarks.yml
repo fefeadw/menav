@@ -58,22 +58,22 @@ categories:
 
         - name: '数字化服务平台'
           url: 'https://digitalservices.mercedes-benz.com/'
-          icon: 'fab fa-facebook'
+          icon: 'far fa-question-circle'
           description: '数字化服务平台'
 
         - name: '数字展厅后台DSMP'
           url: 'https://dsmp.mercedes-benz.com.cn/cdmsA/'
-          icon: 'fab fa-facebook'
+          icon: 'far fa-image'
           description: '数字展厅后台DSMP'    
 
         - name: '奔驰销售和客户服务质量报告平台'
           url: 'https://www.mbms.com.cn/'
-          icon: 'fab fa-facebook'
+          icon: 'far fa-grin-beam-sweat'
           description: '奔驰销售和客户服务质量报告平台'
 
         - name: '奔驰实名制认证系统'
           url: 'https://rnr.mercedes-benz.com.cn/authLogin'
-          icon: 'fab fa-facebook'
+          icon: 'far fa-address-card'
           description: '奔驰实名制认证系统'
 
         - name: 'Modern DFE'
@@ -83,27 +83,27 @@ categories:
 
         - name: 'MMCR'
           url: 'https://mmcr-cn.i.mercedes-benz.com/fastlane/'
-          icon: 'fab fa-facebook'
+          icon: 'far fa-kiss-wink-heart'
           description: 'MMCR'  
 
         - name: '内训师管理平台'
           url: 'https://iht-cn.mercedes-benz.com.cn/iht/openid/auth?state=pc'
-          icon: 'fab fa-facebook'
+          icon: 'fas fa-user-graduate'
           description: '内训师管理平台'
 
         - name: '奔驰金融通（新）'
           url: 'https://mbfs-jinrongtong-prod.mercedes-benz-finance.com.cn/desktop/workqueue/'
-          icon: 'fab fa-facebook'
+          icon: 'fa fa-bank'
           description: '奔驰金融通（新）'
 
         - name: 'OASIS'
           url: 'https://oasis.mercedes-benz.com.cn/#/'
-          icon: 'fab fa-facebook'
+          icon: 'fas fa-coins'
           description: 'OASIS'
 
         - name: 'SIMS'
           url: 'https://sims.mercedes-benz.com.cn/'
-          icon: 'fab fa-facebook'
+          icon: 'far fa-hand-point-right'
           description: 'SIMS'
 
         - name: 'BVMS'
