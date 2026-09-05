@@ -126,6 +126,11 @@ categories:
           icon: 'fas fa-ambulance'
           description: '保修辅助系统WAS'
 
+        - name: '企业邮箱'
+          url: 'https://qiye.aliyun.com'
+          icon: 'fa fa-envelope-square'
+          description: '企业邮箱'
+
   - name: 'APP下载'
     icon: 'fas fa-cloud-download-alt'
     sites:
