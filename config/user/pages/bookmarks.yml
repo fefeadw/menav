@@ -126,10 +126,6 @@ categories:
           icon: 'fab fa-facebook'
           description: '保修辅助系统WAS'
 
-        - name: '奔驰销售和客户服务质量报告平台'
-          url: 'https://www.mbms.com.cn/'
-          icon: 'fab fa-facebook'
-          description: '奔驰销售和客户服务质量报告平台'
   - name: 'APP下载'
     icon: 'fas fa-cloud-download-alt'
     sites:
