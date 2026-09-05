@@ -43,7 +43,7 @@ categories:
 
         - name: '星在线'
           url: 'https://staronline.fdclouds.com/'
-          icon: 'fab fa-linkedin'
+          icon: 'far fa-star'
           description: '星在线'
 
         - name: 'SOOHOME'
@@ -78,7 +78,7 @@ categories:
 
         - name: 'Modern DFE'
           url: 'https://cesar.i.mercedes-benz.com/modern-dfe/'
-          icon: 'fab fa-facebook'
+          icon: 'fas fa-car'
           description: 'Modern DFE(CESAR) '
 
         - name: 'MMCR'
@@ -113,17 +113,17 @@ categories:
 
         - name: '官方认证二手车管理后台(OCC)'
           url: 'https://estore.mercedes-benz.com.cn/estore-admin/auth/system/login'
-          icon: 'fab fa-facebook'
+          icon: 'fas fa-car-side'
           description: '官方认证二手车管理后台(OCC)'
 
         - name: '技术保修中心'
           url: 'https://techcenter-cloud.mercedes-benz.com/TechCenter'
-          icon: 'fab fa-facebook'
+          icon: 'fas fa-wrench'
           description: '技术保修中心'
 
         - name: '保修辅助系统WAS'
           url: 'https://cn-rks.mercedes-benz.com.cn/rks/#/welcome'
-          icon: 'fab fa-facebook'
+          icon: 'fas fa-ambulance'
           description: '保修辅助系统WAS'
 
   - name: 'APP下载'
