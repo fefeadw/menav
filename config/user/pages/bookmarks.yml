@@ -52,6 +52,7 @@ categories:
           url: 'https://soo.mercedes-benz.com.cn/'
           icon: 'fab fa-facebook'
           description: 'SOOHOME Quota Online'
+          faviconUrl: 'assets/SOOHome.png'
 
         - name: 'NBISCloud'
           url: 'https://nbiscloud.mercedes-benz.com.cn/'
