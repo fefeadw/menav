@@ -168,6 +168,12 @@ categories:
           description: '通过ID加入Teams会议'
           faviconUrl: 'assets/Teams.svg'
 
+        - name: '奔驰IOT平台'
+          url: 'https://mbbadge-iot.mlamp.cn/'
+          icon: 'fa fa-envelope-square'
+          description: '智能工牌系统'
+          faviconUrl: 'assets/Teams.svg'
+
   - name: 'APP下载'
     icon: 'fas fa-cloud-download-alt'
     sites:
