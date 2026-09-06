@@ -16,6 +16,8 @@ categories:
         url: https://china-portal.mercedes-benz.com.cn/ # http/https URL（favicon 模式将尝试加载站点图标）
         icon: fab fa-linux # 手动图标：manual 模式使用；favicon 模式下作为回退
         description: 星播客 # 站点描述
+        faviconUrl: 'assets/MBB.png'
+        
       - name: 星平台
         url: https://otl-cn.i.mercedes-benz.com/
         icon: far fa-thumbs-up
