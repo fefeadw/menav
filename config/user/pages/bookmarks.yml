@@ -202,7 +202,7 @@ categories:
         url: 'https://otr.mercedes-benz.com.cn/abm-distribution/'
         icon: 'far fa-thumbs-up'
         description: 'OTR-App下载'
-        faviconUrl: 'assets/icon/OTR.ico'
+        faviconUrl: 'assets/icon/OTRdownload.png'
 
       - name: '星播客APP IOS版'
         url: 'https://china-portal.mercedes-benz.com.cn/AppDownload/IOSDownload'
