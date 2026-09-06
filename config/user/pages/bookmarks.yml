@@ -34,6 +34,7 @@ categories:
         url: https://alice.mercedes-benz.com/access
         icon: far fa-user-circle
         description: Alice Access
+        faviconUrl: 'assets/Alice.png'
 
   - name: 'All Navigation'
     icon: 'fas fa-share-alt'
