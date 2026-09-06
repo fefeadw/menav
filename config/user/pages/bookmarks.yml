@@ -136,9 +136,10 @@ categories:
     sites:
       - name: 'PingID安卓版APP' # 站点名称
         url: 'https://download.pingidentity.com/public/PingID/android/PingID.apk' # http/https URL（favicon 模式将尝试加载站点图标）
-        icon: 'fab fa-linux' # 手动图标：manual 模式使用；favicon 模式下作为回退
+        icon: 'fab fa-star' # 手动图标：manual 模式使用；favicon 模式下作为回退
         description: 'PingID安卓版APP' # 站点描述
-
+        faviconUrl: 'assets/pingid.png'
+        
       - name: 'PINGID苹果版APP'
         url: 'https://otl-cn.i.mercedes-benz.com/'
         icon: 'far fa-thumbs-up'
