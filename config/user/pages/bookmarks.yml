@@ -93,7 +93,8 @@ categories:
         - name: '红字发票登记平台'
           url: 'https://accounting-homepage.mercedes-benz.com.cn'
           icon: 'far fa-kiss-wink-heart'
-          description: '红字发票登记平台' 
+          description: '红字发票登记平台'
+          faviconUrl: 'assets/homepage.png'
 
         - name: 'WFS·DAS'
           url: 'https://das.mercedes-benz-finance.com.cn/das/index.html'
