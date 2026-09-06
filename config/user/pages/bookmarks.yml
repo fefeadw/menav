@@ -136,6 +136,12 @@ categories:
           description: '企业邮箱'
           faviconUrl: 'assets/alimail.png'
 
+        - name: 'Teams会议'
+          url: 'https://www.microsoft.com/zh-cn/microsoft-teams/join-a-meeting?rtc=1'
+          icon: 'fa fa-envelope-square'
+          description: '通过ID加入Teams会议'
+          faviconUrl: 'assets/Teams.svg'
+
   - name: 'APP下载'
     icon: 'fas fa-cloud-download-alt'
     sites:
