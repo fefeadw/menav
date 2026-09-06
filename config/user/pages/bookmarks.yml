@@ -99,7 +99,7 @@ categories:
         - name: 'OASIS'
           url: 'https://oasis.mercedes-benz.com.cn/#/'
           icon: 'fas fa-coins'
-          description: 'OASIS'
+          description: '全新经销商销售激励管理系统'
 
         - name: 'SIMS'
           url: 'https://sims.mercedes-benz.com.cn/'
