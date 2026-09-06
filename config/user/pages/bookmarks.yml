@@ -59,6 +59,7 @@ categories:
           url: 'https://nbiscloud.mercedes-benz.com.cn/'
           icon: 'fab fa-facebook'
           description: 'NBISCloud'
+          faviconUrl: 'assets/NBIS.ico'
 
         - name: '数字化服务平台'
           url: 'https://digitalservices.mercedes-benz.com/'
