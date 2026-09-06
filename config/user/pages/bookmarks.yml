@@ -144,6 +144,7 @@ categories:
         url: 'https://otl-cn.i.mercedes-benz.com/'
         icon: 'far fa-thumbs-up'
         description: 'PINGID苹果版APP'
+        faviconUrl: 'assets/pingid.png'
 
       - name: 'OTR-App下载'
         url: 'https://otr.mercedes-benz.com.cn/abm-distribution/'
@@ -154,11 +155,13 @@ categories:
         url: 'https://china-portal.mercedes-benz.com.cn/AppDownload/IOSDownload'
         icon: 'far fa-thumbs-up'
         description: '星播客APP IOS版'
+        faviconUrl: 'assets/MBB.png'
       
       - name: '星播客APP 安卓版'
         url: 'https://china-portal.mercedes-benz.com.cn/AppDownload/AndroidDownload'
         icon: 'far fa-thumbs-up'
         description: '星播客APP 安卓版'
+        faviconUrl: 'assets/MBB.png'
       
       - name: '金融通APP'
         url: 'https://mbfs-jinrongtong-prod.mercedes-benz-finance.com.cn/quotation/#/download?code=9ADlIleN'
