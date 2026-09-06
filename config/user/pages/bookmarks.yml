@@ -88,7 +88,8 @@ categories:
         - name: 'MMCR'
           url: 'https://mmcr-cn.i.mercedes-benz.com/fastlane/'
           icon: 'far fa-kiss-wink-heart'
-          description: 'MMCR' 
+          description: 'MMCR'
+          faviconUrl: 'assets/kiss-wink-heart.svg'
 
         - name: '红字发票登记平台'
           url: 'https://accounting-homepage.mercedes-benz.com.cn'
