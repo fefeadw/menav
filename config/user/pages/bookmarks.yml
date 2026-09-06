@@ -27,6 +27,7 @@ categories:
         url: https://otr.mercedes-benz.com.cn/#/
         icon: fab fa-google
         description: One Touch Retail ＋
+        faviconUrl: 'assets/OTR.ico'
         
       - name: DIC经销商信息中心
         url: https://dic-cn.i.mercedes-benz.com/
@@ -46,9 +47,8 @@ categories:
           url: 'https://xentry.mercedes-benz.com/home/'
           icon: "http://www.boddob.com/wp-content/uploads/2022/10/50-1.png"
           description: 'XENTRY Portal-首页'
-
-        
-
+          faviconUrl: 'assets/XP.png'
+          
         - name: 'SOOHOME'
           url: 'https://soo.mercedes-benz.com.cn/'
           icon: 'fab fa-facebook'
@@ -119,6 +119,7 @@ categories:
           url: 'https://oasis.mercedes-benz.com.cn/#/'
           icon: 'fas fa-coins'
           description: '全新经销商销售激励管理系统'
+          faviconUrl: 'assets/OASIS.ico'
 
         - name: 'SHIELD 2.0'
           url: 'https://shield.mercedes-benz.com.cn/'
