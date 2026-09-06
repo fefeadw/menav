@@ -134,6 +134,7 @@ categories:
           url: 'https://qiye.aliyun.com'
           icon: 'fa fa-envelope-square'
           description: '企业邮箱'
+          faviconUrl: 'assets/alimail.png'
 
   - name: 'APP下载'
     icon: 'fas fa-cloud-download-alt'
