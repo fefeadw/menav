@@ -88,7 +88,24 @@ categories:
         - name: 'MMCR'
           url: 'https://mmcr-cn.i.mercedes-benz.com/fastlane/'
           icon: 'far fa-kiss-wink-heart'
-          description: 'MMCR'  
+          description: 'MMCR' 
+
+        - name: '红字发票登记平台'
+          url: 'https://accounting-homepage.mercedes-benz.com.cn'
+          icon: 'far fa-kiss-wink-heart'
+          description: '红字发票登记平台' 
+
+        - name: 'WFS·DAS'
+          url: 'https://das.mercedes-benz-finance.com.cn/das/index.html'
+          icon: 'far fa-kiss-wink-heart'
+          description: 'WFS·DAS' 
+          faviconUrl: 'assets/WFS-DAS.png'
+
+        - name: '售后产品服务管理平台'
+          url: 'https://aspm.mercedes-benz.com.cn/#/login'
+          icon: 'far fa-kiss-wink-heart'
+          description: '售后产品服务管理平台' 
+          faviconUrl: 'assets/LPO.png'
 
         - name: '内训师管理平台'
           url: 'https://iht-cn.mercedes-benz.com.cn/iht/openid/auth?state=pc'
