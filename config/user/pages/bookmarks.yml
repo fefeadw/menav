@@ -23,10 +23,10 @@ categories:
         icon: far fa-thumbs-up
         description: 星平台
         
-      - name: OTR正式系统
+      - name: OTR+
         url: https://otr.mercedes-benz.com.cn/#/
         icon: fab fa-google
-        description: OTR正式系统
+        description: One Touch Retail ＋
         
       - name: DIC经销商信息中心
         url: https://dic-cn.i.mercedes-benz.com/
