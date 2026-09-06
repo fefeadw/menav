@@ -14,9 +14,9 @@ categories:
     sites:
       - name: 星播客 # 站点名称
         url: https://china-portal.mercedes-benz.com.cn/ # http/https URL（favicon 模式将尝试加载站点图标）
-        icon: fab fa-linux # 手动图标：manual 模式使用；favicon 模式下作为回退
+        icon: assets/icon/MBB.png # 手动图标：manual 模式使用；favicon 模式下作为回退
         description: 星播客 # 站点描述
-        faviconUrl: 'assets/icon/MBB.png'
+        faviconUrl: assets/icon/MBB.png
         
       - name: 星平台
         url: https://otl-cn.i.mercedes-benz.com/
@@ -25,9 +25,9 @@ categories:
         
       - name: OTR+
         url: https://otr.mercedes-benz.com.cn/#/
-        icon: fab fa-google
+        icon: assets/icon/OTR.ico
         description: One Touch Retail ＋
-        faviconUrl: 'assets/icon/OTR.ico'
+        faviconUrl: assets/icon/OTR.ico
         
       - name: DIC经销商信息中心
         url: https://dic-cn.i.mercedes-benz.com/
@@ -36,9 +36,9 @@ categories:
         
       - name: Alice Access
         url: https://alice.mercedes-benz.com/access
-        icon: far fa-user-circle
+        icon: assets/icon/Alice.png
         description: Alice Access
-        faviconUrl: 'assets/icon/Alice.png'
+        faviconUrl: assets/icon/Alice.png
 
   - name: 'All Navigation'
     icon: 'fas fa-share-alt'
@@ -166,21 +166,21 @@ categories:
 
         - name: 'Teams会议'
           url: 'https://www.microsoft.com/zh-cn/microsoft-teams/join-a-meeting?rtc=1'
-          icon: 'fa fa-envelope-square'
+          icon: assets/icon/Teams.svg
           description: '通过ID加入Teams会议'
-          faviconUrl: 'assets/icon/Teams.svg'
+          faviconUrl: assets/icon/Teams.svg
 
         - name: '奔驰IOT平台'
           url: 'https://mbbadge-iot.mlamp.cn/'
-          icon: 'fa fa-envelope-square'
+          icon: assets/icon/iot.png
           description: '智能工牌系统'
-          faviconUrl: 'assets/icon/iot.png'
+          faviconUrl: assets/icon/iot.png
 
         - name: 'OpenWebStart'
           url: 'https://openwebstart.com/download'
-          icon: 'fa fa-envelope-square'
+          icon: assets/icon/openwebstart.png
           description: 'OpenWebStart'
-          faviconUrl: 'assets/icon/openwebstart.png'
+          faviconUrl: assets/icon/openwebstart.png
 
   - name: 'APP下载'
     icon: 'fas fa-cloud-download-alt'
