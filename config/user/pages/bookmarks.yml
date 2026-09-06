@@ -70,11 +70,6 @@ categories:
           icon: 'far fa-image'
           description: '数字展厅后台DSMP'    
 
-        - name: '奔驰销售和客户服务质量报告平台'
-          url: 'https://www.mbms.com.cn/'
-          icon: 'far fa-grin-beam-sweat'
-          description: '奔驰销售和客户服务质量报告平台'
-
         - name: '奔驰实名制认证系统'
           url: 'https://rnr.mercedes-benz.com.cn/authLogin'
           icon: 'far fa-address-card'
