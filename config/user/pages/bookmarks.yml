@@ -16,7 +16,7 @@ categories:
         url: https://china-portal.mercedes-benz.com.cn/ # http/https URL（favicon 模式将尝试加载站点图标）
         icon: fab fa-linux # 手动图标：manual 模式使用；favicon 模式下作为回退
         description: 星播客 # 站点描述
-        faviconUrl: 'assets/MBB.png'
+        faviconUrl: 'assets/icon/MBB.png'
         
       - name: 星平台
         url: https://otl-cn.i.mercedes-benz.com/
@@ -27,7 +27,7 @@ categories:
         url: https://otr.mercedes-benz.com.cn/#/
         icon: fab fa-google
         description: One Touch Retail ＋
-        faviconUrl: 'assets/OTR.ico'
+        faviconUrl: 'assets/icon/OTR.ico'
         
       - name: DIC经销商信息中心
         url: https://dic-cn.i.mercedes-benz.com/
@@ -38,7 +38,7 @@ categories:
         url: https://alice.mercedes-benz.com/access
         icon: far fa-user-circle
         description: Alice Access
-        faviconUrl: 'assets/Alice.png'
+        faviconUrl: 'assets/icon/Alice.png'
 
   - name: 'All Navigation'
     icon: 'fas fa-share-alt'
@@ -47,19 +47,19 @@ categories:
           url: 'https://xentry.mercedes-benz.com/home/'
           icon: "http://www.boddob.com/wp-content/uploads/2022/10/50-1.png"
           description: 'XENTRY Portal-首页'
-          faviconUrl: 'assets/XP.png'
+          faviconUrl: 'assets/icon/XP.png'
           
         - name: 'SOOHOME'
           url: 'https://soo.mercedes-benz.com.cn/'
           icon: 'fab fa-facebook'
           description: 'SOOHOME Quota Online'
-          faviconUrl: 'assets/SOOHome.png'
+          faviconUrl: 'assets/icon/SOOHome.png'
 
         - name: 'NBISCloud'
           url: 'https://nbiscloud.mercedes-benz.com.cn/'
           icon: 'fab fa-facebook'
           description: 'NBISCloud'
-          faviconUrl: 'assets/NBIS.ico'
+          faviconUrl: 'assets/icon/NBIS.ico'
 
         - name: '数字化服务平台'
           url: 'https://digitalservices.mercedes-benz.com/'
@@ -86,25 +86,25 @@ categories:
           url: 'https://mmcr-cn.i.mercedes-benz.com/fastlane/'
           icon: 'far fa-kiss-wink-heart'
           description: 'MMCR'
-          faviconUrl: 'assets/kiss-wink-heart.svg'
+          faviconUrl: 'assets/icon/kiss-wink-heart.svg'
 
         - name: '红字发票登记平台'
           url: 'https://accounting-homepage.mercedes-benz.com.cn'
           icon: 'far fa-kiss-wink-heart'
           description: '红字发票登记平台'
-          faviconUrl: 'assets/homepage.png'
+          faviconUrl: 'assets/icon/homepage.png'
 
         - name: 'WFS·DAS'
           url: 'https://das.mercedes-benz-finance.com.cn/das/index.html'
           icon: 'far fa-kiss-wink-heart'
           description: 'WFS·DAS' 
-          faviconUrl: 'assets/WFS-DAS.png'
+          faviconUrl: 'assets/icon/WFS-DAS.png'
 
         - name: '售后产品服务管理平台'
           url: 'https://aspm.mercedes-benz.com.cn/#/login'
           icon: 'far fa-kiss-wink-heart'
           description: '售后产品服务管理平台' 
-          faviconUrl: 'assets/LPO.png'
+          faviconUrl: 'assets/icon/LPO.png'
 
         - name: '内训师管理平台'
           url: 'https://iht-cn.mercedes-benz.com.cn/iht/openid/auth?state=pc'
@@ -126,7 +126,7 @@ categories:
           url: 'https://shield.mercedes-benz.com.cn/'
           icon: 'far fa-star'
           description: 'SHIEDL 2.0'
-          faviconUrl: 'assets/shield.png'
+          faviconUrl: 'assets/icon/shield.png'
 
         - name: 'SIMS'
           url: 'https://sims.mercedes-benz.com.cn/'
@@ -157,31 +157,31 @@ categories:
           url: 'https://staronline.fdclouds.com/'
           icon: 'far fa-star'
           description: '星在线'
-          faviconUrl: 'assets/staronline.png'
+          faviconUrl: 'assets/icon/staronline.png'
 
         - name: '企业邮箱'
           url: 'https://qiye.aliyun.com'
           icon: 'fa fa-envelope-square'
           description: '企业邮箱'
-          faviconUrl: 'assets/alimail.png'
+          faviconUrl: 'assets/icon/alimail.png'
 
         - name: 'Teams会议'
           url: 'https://www.microsoft.com/zh-cn/microsoft-teams/join-a-meeting?rtc=1'
           icon: 'fa fa-envelope-square'
           description: '通过ID加入Teams会议'
-          faviconUrl: 'assets/Teams.svg'
+          faviconUrl: 'assets/icon/Teams.svg'
 
         - name: '奔驰IOT平台'
           url: 'https://mbbadge-iot.mlamp.cn/'
           icon: 'fa fa-envelope-square'
           description: '智能工牌系统'
-          faviconUrl: 'assets/iot.png'
+          faviconUrl: 'assets/icon/iot.png'
 
         - name: 'OpenWebStart'
           url: 'https://openwebstart.com/download'
           icon: 'fa fa-envelope-square'
           description: 'OpenWebStart'
-          faviconUrl: 'assets/openwebstart.png'
+          faviconUrl: 'assets/icon/openwebstart.png'
 
   - name: 'APP下载'
     icon: 'fas fa-cloud-download-alt'
@@ -190,30 +190,31 @@ categories:
         url: 'https://download.pingidentity.com/public/PingID/android/PingID.apk' # http/https URL（favicon 模式将尝试加载站点图标）
         icon: 'fab fa-star' # 手动图标：manual 模式使用；favicon 模式下作为回退
         description: 'PingID安卓版APP' # 站点描述
-        faviconUrl: 'assets/pingid.png'
+        faviconUrl: 'assets/icon/pingid.png'
         
       - name: 'PINGID苹果版APP'
         url: 'https://otl-cn.i.mercedes-benz.com/'
         icon: 'far fa-thumbs-up'
         description: 'PINGID苹果版APP'
-        faviconUrl: 'assets/pingid.png'
+        faviconUrl: 'assets/icon/pingid.png'
 
       - name: 'OTR-App下载'
         url: 'https://otr.mercedes-benz.com.cn/abm-distribution/'
         icon: 'far fa-thumbs-up'
         description: 'OTR-App下载'
+        faviconUrl: 'assets/icon/OTR.ico'
 
       - name: '星播客APP IOS版'
         url: 'https://china-portal.mercedes-benz.com.cn/AppDownload/IOSDownload'
         icon: 'far fa-thumbs-up'
         description: '星播客APP IOS版'
-        faviconUrl: 'assets/MBB.png'
+        faviconUrl: 'assets/icon/MBB.png'
       
       - name: '星播客APP 安卓版'
         url: 'https://china-portal.mercedes-benz.com.cn/AppDownload/AndroidDownload'
         icon: 'far fa-thumbs-up'
         description: '星播客APP 安卓版'
-        faviconUrl: 'assets/MBB.png'
+        faviconUrl: 'assets/icon/MBB.png'
       
       - name: '金融通APP'
         url: 'https://mbfs-jinrongtong-prod.mercedes-benz-finance.com.cn/quotation/#/download?code=9ADlIleN'
