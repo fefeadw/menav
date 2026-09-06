@@ -134,7 +134,7 @@ categories:
 
         - name: 'BVMS'
           url: 'https://bvms.mercedes-benz.com.cn/'
-          icon: 'fab fa-facebook'
+          icon: 'fas fa-paw'
           description: 'BVMS'
 
         - name: '官方认证二手车管理后台(OCC)'
