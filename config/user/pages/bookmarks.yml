@@ -22,14 +22,17 @@ categories:
         url: https://otl-cn.i.mercedes-benz.com/
         icon: far fa-thumbs-up
         description: 星平台
+        
       - name: OTR正式系统
         url: https://otr.mercedes-benz.com.cn/#/
         icon: fab fa-google
         description: OTR正式系统
+        
       - name: DIC经销商信息中心
         url: https://dic-cn.i.mercedes-benz.com/
         icon: fas fa-users
         description: DIC经销商信息中心
+        
       - name: Alice Access
         url: https://alice.mercedes-benz.com/access
         icon: far fa-user-circle
@@ -44,10 +47,7 @@ categories:
           icon: "http://www.boddob.com/wp-content/uploads/2022/10/50-1.png"
           description: 'XENTRY Portal-首页'
 
-        - name: '星在线'
-          url: 'https://staronline.fdclouds.com/'
-          icon: 'far fa-star'
-          description: '星在线'
+        
 
         - name: 'SOOHOME'
           url: 'https://soo.mercedes-benz.com.cn/'
@@ -124,6 +124,12 @@ categories:
           icon: 'fas fa-coins'
           description: '全新经销商销售激励管理系统'
 
+        - name: 'SHIELD 2.0'
+          url: 'https://shield.mercedes-benz.com.cn/'
+          icon: 'far fa-star'
+          description: 'SHIEDL 2.0'
+          faviconUrl: 'assets/shield.png'
+
         - name: 'SIMS'
           url: 'https://sims.mercedes-benz.com.cn/'
           icon: 'far fa-hand-point-right'
@@ -148,6 +154,12 @@ categories:
           url: 'https://cn-rks.mercedes-benz.com.cn/rks/#/welcome'
           icon: 'fas fa-ambulance'
           description: '保修辅助系统WAS'
+
+        - name: '星在线'
+          url: 'https://staronline.fdclouds.com/'
+          icon: 'far fa-star'
+          description: '星在线'
+          faviconUrl: 'assets/staronline.png'
 
         - name: '企业邮箱'
           url: 'https://qiye.aliyun.com'
