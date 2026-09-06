@@ -218,5 +218,5 @@ categories:
       
       - name: '金融通APP'
         url: 'https://mbfs-jinrongtong-prod.mercedes-benz-finance.com.cn/quotation/#/download?code=9ADlIleN'
-        icon: 'far fa-thumbs-up'
+        icon: 'fas fa-radiation-alt'
         description: '金融通APP'
