@@ -65,6 +65,7 @@ categories:
           url: 'https://digitalservices.mercedes-benz.com/'
           icon: 'far fa-question-circle'
           description: '数字化服务平台'
+          faviconUrl: 'assets/icon/ds.png'
 
         - name: '数字展厅后台DSMP'
           url: 'https://dsmp.mercedes-benz.com.cn/cdmsA/'
