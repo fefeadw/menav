@@ -68,7 +68,7 @@ categories:
           faviconUrl: 'assets/icon/ds.png'
 
         - name: '数字展厅后台DSMP'
-          url: 'https://dsmp.mercedes-benz.com.cn/cdmsA/'
+          url: 'http://dsmp.mercedes-benz.com.cn/cdmsA/'
           icon: 'far fa-image'
           description: '数字展厅后台DSMP'    
 
