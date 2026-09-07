@@ -40,6 +40,12 @@ categories:
         description: Alice Access
         faviconUrl: assets/icon/Alice.png
 
+      - name: '中国联通政企在线门户'
+        url: https://gec.10010.com
+        icon: assets/icon/unicom.ico
+        description: ChinaUnicom
+        faviconUrl: assets/icon/unicom.ico
+
   - name: 'All Navigation'
     icon: 'fas fa-share-alt'
     sites:
